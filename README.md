@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/aayushgithub1/aayushgithub1/assets/100990694/58c9eb3e-addb-4e46-ba90-3cb55aff023e)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/aayushgithub1/aayushgithub1/assets/100990694/58c9eb3e-addb-4e46-ba90-3cb55aff023e">
 
 <!--
 **aayushgithub1/aayushgithub1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
