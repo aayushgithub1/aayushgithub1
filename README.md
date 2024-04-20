@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <img align="right" alt="coding" width="400" src="https://github.com/aayushgithub1/aayushgithub1/assets/100990694/7b3b20a6-027c-491a-96e9-db47d8d452e8">
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushgithub1&show_icons=true&bg_color=00000000)
+<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#00000000" stroke-opacity="1"/>
+
 <!--
 **aayushgithub1/aayushgithub1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
