@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-div { background-image: url("C:\Users\Aayus\Downloads\1.gif"); }
+div { background-image:"C:\Users\Aayus\Downloads\1.gif"; }
 
 <!--
 **aayushgithub1/aayushgithub1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
