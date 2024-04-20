@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img align="right" alt="coding" width="400" src="https://github.com/aayushgithub1/aayushgithub1/assets/100990694/7b3b20a6-027c-491a-96e9-db47d8d452e8">
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<img align="right" alt="coding" width="400" src= "https://github-readme-stats.vercel.app/api?username=aayushgithub1&show_icons=true&theme=dark#gh-dark-mode-only">(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
