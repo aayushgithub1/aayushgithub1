@@ -6,7 +6,7 @@
 💡Currently learning about data structure & algorithm and web devlpoment.
  <br/><br/>
 
-https://github.com/aayushgithub1/aayushgithub1/assets/100990694/7b3b20a6-027c-491a-96e9-db47d8d452e8
+
 
 
 
