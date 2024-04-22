@@ -2,12 +2,12 @@
 
 <img align="right" alt="coding" width="320" src="https://github.com/aayushgithub1/aayushgithub1/assets/100990694/772821f7-15c3-4bfb-9607-eb7d5f323f8b">
 <b/>
-👨‍💻Software Engineer sharing about my journey and learnings in tech<br/>
-👨‍🎓Studying <b>Computer Science</b> at Manipal University Jaipur, Rajasthan<br/>
-💡Currently learning about data structure & algorithm and web devlpoment.<br/>
-🔭Focused on enhancing my professional skills ,through certifications, networking events.<br/>
-🔎Ongoing research , based on <b>Autonomous Driving System with Road Sign Recoginiton.<br/>
-🎖️Collaborated with peers on group projects,learned from their perspectives, and honed my ability to work effectively within teams.
+👨‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👨‍🎓 Studying <b>Computer Science</b> at Manipal University Jaipur, Rajasthan<br/>
+💡 Currently learning about data structure & algorithm and web devlpoment.<br/>
+🔭 Focused on enhancing my professional skills ,through certifications, networking events.<br/>
+🔎 Ongoing research , based on <b>Autonomous Driving System with Road Sign Recoginiton.<br/>
+🎖️ Collaborated with peers on group projects,learned from their perspectives, and honed my ability to work effectively within teams.
  <br/><br/>
 
 
