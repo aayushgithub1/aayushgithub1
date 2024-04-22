@@ -8,7 +8,7 @@
 
 <img align="left" alt="coding" width="400" src= "https://github-readme-stats.vercel.app/api?username=aayushgithub1&show_icons=true&theme=dark#gh-dark-mode-only">
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 ### 💻 Tech Stack <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -- >
