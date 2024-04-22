@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="coding" width="330" src="https://github.com/aayushgithub1/aayushgithub1/assets/100990694/7b3b20a6-027c-491a-96e9-db47d8d452e8">
+<img align="right" alt="coding" width="350" src="https://github.com/aayushgithub1/aayushgithub1/assets/100990694/7b3b20a6-027c-491a-96e9-db47d8d452e8">
 👨‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👨‍🎓 Studying [Computer Science] at Manipal University Jaipur, Rajasthan<br/>
 💡Currently learning about data structure & algorithm and web devlpoment.
@@ -9,7 +9,8 @@
 <img align="left" alt="coding" width="400" src= "https://github-readme-stats.vercel.app/api?username=aayushgithub1&show_icons=true&theme=dark#gh-dark-mode-only">
 
 
-
+#💻 Tech Stack 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -- >
 [! [Magdeline's_github_stats] (https://github-readme-stats. vercel. app/api?username=xsol05&count_private=true&show_icons=true&theme=radical&hide rank=false)]
 <!--
