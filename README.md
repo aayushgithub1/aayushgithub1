@@ -2,7 +2,7 @@ a### Hi there 👋
 
 <img align="right" alt="coding" width="350" src="https://github.com/aayushgithub1/aayushgithub1/assets/100990694/7b3b20a6-027c-491a-96e9-db47d8d452e8">
 👨‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👨‍🎓 Studying [Computer Science] at Manipal University Jaipur, Rajasthan<br/>
+👨‍🎓 Studying <b>Computer Science</b> at Manipal University Jaipur, Rajasthan<br/>
 💡Currently learning about data structure & algorithm and web devlpoment.
  <br/><br/>
 
