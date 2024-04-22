@@ -5,6 +5,7 @@
 👨‍💻Software Engineer sharing about my journey and learnings in tech<br/>
 👨‍🎓Studying <b>Computer Science</b> at Manipal University Jaipur, Rajasthan<br/>
 💡Currently learning about data structure & algorithm and web devlpoment.<br/>
+  focused on enhancing my professional skills ,through certifications, networking events
 🔎Completed my reseacrh paper based on <b>Autonomous Driving System with Road  <br/>  Sign Recoginiton.<br/>
 🎖️Collaborated with peers on group projects,learned from their perspectives, and honed my ability to work effectively within teams.
  <br/><br/>
