@@ -4,7 +4,7 @@
 👨‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👨‍🎓 Studying [Computer Science] at Manipal University Jaipur, Rajasthan<br/>
 💡Currently learning about data structure & algorithm and web devlpoment.
- <br/><br/><br/><br/>
+ <br/><br/>
 
 <img align="left" alt="coding" width="400" src= "https://github-readme-stats.vercel.app/api?username=aayushgithub1&show_icons=true&theme=dark#gh-dark-mode-only">
 
